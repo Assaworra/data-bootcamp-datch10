@@ -1,7 +1,7 @@
 # data-bootcamp-datch10
 My data science and analytics projects
 
-## my personal [rojects
+## my personal projects
 
 1. SQL supermaket analysis
 2. SQL churn analysis
